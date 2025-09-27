@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "68281fe57cfb160abde4280b"
+  },
+  "isAdmin": false,
+  "city": "Anytown",
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "passwordHash": "$2a$10$9yGbZJi35ayYXvHJjDXaQ.nIgVWrJynifVgp63eS.Eu5EV4kk6016",
+  "phone": "1234567890",
+  "question1": "What is your pet animal's name?",
+  "question2": "What is your pet animal's name?",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68281fe57cfb160abde4280c"
+  },
+  "isAdmin": false,
+  "city": "Bangalore",
+  "name": "vendor",
+  "email": "vendor@gmail.com",
+  "passwordHash": "$2a$10$TIWndUFJ3zWqVyTZmCIa1.lIexhCvD0rY8uSKWHJZLZSpchPaDfYy",
+  "phone": "1234567890",
+  "question1": "test",
+  "question2": "test",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68281fe57cfb160abde4280d"
+  },
+  "isAdmin": false,
+  "city": "Chennai",
+  "name": "Arun",
+  "email": "newvendor@gmail.com",
+  "passwordHash": "$2a$10$PWUccLjy7y.39pnqSODeluPQm4of4GiqQrixdYGfrZs.HcOCe9.p2",
+  "phone": "1234567890",
+  "question1": "test",
+  "question2": "test",
+  "__v": 0
+}]
